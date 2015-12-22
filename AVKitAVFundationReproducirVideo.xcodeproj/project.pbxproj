@@ -12,6 +12,7 @@
 		2FB549F91C2910EA00EB67CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FB549F71C2910EA00EB67CA /* Main.storyboard */; };
 		2FB549FB1C2910EA00EB67CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FB549FA1C2910EA00EB67CA /* Assets.xcassets */; };
 		2FB549FE1C2910EA00EB67CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FB549FC1C2910EA00EB67CA /* LaunchScreen.storyboard */; };
+		2FB54A061C29117200EB67CA /* Atomic.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2FB54A051C29117200EB67CA /* Atomic.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2FB549FA1C2910EA00EB67CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FB549FD1C2910EA00EB67CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FB549FF1C2910EA00EB67CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FB54A051C29117200EB67CA /* Atomic.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Atomic.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		2FB549F21C2910EA00EB67CA /* AVKitAVFundationReproducirVideo */ = {
 			isa = PBXGroup;
 			children = (
+				2FB54A051C29117200EB67CA /* Atomic.mp4 */,
 				2FB549F31C2910EA00EB67CA /* AppDelegate.swift */,
 				2FB549F51C2910EA00EB67CA /* ViewController.swift */,
 				2FB549F71C2910EA00EB67CA /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FB549FE1C2910EA00EB67CA /* LaunchScreen.storyboard in Resources */,
+				2FB54A061C29117200EB67CA /* Atomic.mp4 in Resources */,
 				2FB549FB1C2910EA00EB67CA /* Assets.xcassets in Resources */,
 				2FB549F91C2910EA00EB67CA /* Main.storyboard in Resources */,
 			);
